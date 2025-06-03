@@ -11,7 +11,7 @@ const options = {
     },
     servers: [
       {
-        url: 'http://localhost:3000', // depois você troca para o link do deploy
+        url: 'https://loja-produtos-api-production.up.railway.app', // depois você troca para o link do deploy
       },
     ],
   },
